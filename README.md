@@ -14,7 +14,9 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 
 <div style="text-align: justify">
 
-In my previous roles, I was an architect and implemented DevSecOps, SRE, and Chaos Engineering techniques across a range of projects at different firms. Along with developing and overseeing numerous internal engineering projects, I have also established and led inner source communities within organisations and constructed APIs for R&D initiatives from conception to completion. In addition to actively participating in hackathons and innovation events, I also won grants and budgets for improving project features and supervised interns and junior engineers.
+In my previous roles, I was an architect and implemented DevSecOps, SRE, and Chaos Engineering techniques across a range of projects at different firms. Along with developing and overseeing numerous internal engineering projects, I have also established and led inner source communities within organisations and constructed APIs for R&D initiatives from conception to completion. 
+
+In addition to actively participating in hackathons and innovation events, I also won grants and budgets for improving project features and supervised interns and junior engineers.
 
 </div>
 

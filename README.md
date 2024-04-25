@@ -103,17 +103,17 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <a href ="https://www.credly.com/badges/30ee3786-0657-4c0b-b4e4-5397abdf4852">
 <img src="./assets/badges/harness-certified-continuous-delivery-gitops-archit.png" width="16%" height="16%"/>
 </a>
-<a href ="https://www.credly.com/badges/bcc98eec-7b04-4486-9fd8-73be5359901f">
-<img src="./assets/badges/harness-certified-continuous-integration-architect.png" width="16%" height="16%"/>
-</a>
 <a href ="https://www.credly.com/badges/92bf0394-9eea-40f2-86ae-de54ccb76546">
 <img src="./assets/badges/harness-certified-continuous-delivery-gitops-admini.png" width="16%" height="16%"/>
 </a>
-<a href ="https://www.credly.com/badges/39be6a72-b323-4080-886d-10aa451d69a6">
-<img src="./assets/badges/harness-certified-continuous-integration-administra.png" width="16%" height="16%"/>
-</a>
 <a href ="https://www.credly.com/badges/ba265536-d0a2-40eb-bdc4-b24eceb46646">
 <img src="./assets/badges/harness-certified-continuous-delivery-gitops-develo.png" width="16%" height="16%"/>
+</a>
+<a href ="https://www.credly.com/badges/bcc98eec-7b04-4486-9fd8-73be5359901f">
+<img src="./assets/badges/harness-certified-continuous-integration-architect.png" width="16%" height="16%"/>
+</a>
+<a href ="https://www.credly.com/badges/39be6a72-b323-4080-886d-10aa451d69a6">
+<img src="./assets/badges/harness-certified-continuous-integration-administra.png" width="16%" height="16%"/>
 </a>
 <a href ="https://www.credly.com/badges/23d385e2-f38c-4bfd-8e47-e6c03ac4b360">
 <img src="./assets/badges/harness-certified-continuous-integration-developer.png" width="16%" height="16%"/>

@@ -50,70 +50,70 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 
 #### Azure Cloud
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/68E926FC2F0D730B?sharingId=6A4C6FE13ED7A5D9">
-<img src="./assets/badges/azure-solutions-architect-expert.png" width="14%" height="14%"/>
+<img src="./assets/badges/azure-solutions-architect-expert.png" width="20%" height="20%"/>
 </a>
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/C1E4A49EC731B27F?sharingId=6A4C6FE13ED7A5D9">
-<img src="./assets/badges/azure-devops-engineer-expert.png" width="14%" height="14%"/>
+<img src="./assets/badges/azure-devops-engineer-expert.png" width="20%" height="20%"/>
 </a>
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/50DA77D4095452D5?sharingId=6A4C6FE13ED7A5D9">
-<img src="./assets/badges/azure-developer-associate.png" width="14%" height="14%"/>
+<img src="./assets/badges/azure-developer-associate.png" width="20%" height="20%"/>
 </a>
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/40691D8F02F73F2E?sharingId=6A4C6FE13ED7A5D9">
-<img src="./assets/badges/microsoft-certified-azure-administrator-associate.png" width="14%" height="14%"/>
+<img src="./assets/badges/microsoft-certified-azure-administrator-associate.png" width="20%" height="20%"/>
 </a>
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/A633B2A21F2511FF?sharingId=6A4C6FE13ED7A5D9">
-<img src="./assets/badges/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="14%" height="14%"/>
+<img src="./assets/badges/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="20%" height="20%"/>
 </a>
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/E848C7A8181B3F67?sharingId=6A4C6FE13ED7A5D9">
-<img src="./assets/badges/microsoft-certified-azure-ai-fundamentals.png" width="14%" height="14%"/>
+<img src="./assets/badges/microsoft-certified-azure-ai-fundamentals.png" width="20%" height="20%"/>
 </a>
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/5D917F9FCE5AB14?sharingId=6A4C6FE13ED7A5D9">
-<img src="./assets/badges/microsoft-certified-azure-data-fundamentals.png" width="14%" height="14%"/>
+<img src="./assets/badges/microsoft-certified-azure-data-fundamentals.png" width="20%" height="20%"/>
 </a>
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/7F68DF9DC78497F2?sharingId=6A4C6FE13ED7A5D9">
-<img src="./assets/badges/microsoft-certified-azure-fundamentals.png" width="14%" height="14%"/>
+<img src="./assets/badges/microsoft-certified-azure-fundamentals.png" width="20%" height="20%"/>
 </a>
 
 #### AWS Cloud
 <a href ="https://www.credly.com/badges/30ba7e92-9cef-4dca-8e9b-2d5fdb3c1968">
-<img src="./assets/badges/aws-certified-solutions-architect-associate.png" width="14%" height="14%"/>
+<img src="./assets/badges/aws-certified-solutions-architect-associate.png" width="20%" height="20%"/>
 </a>
 <a href ="https://www.credly.com/badges/95e7226b-6a74-4f4d-a412-9d12d0391ce3">
-<img src="./assets/badges/aws-certified-cloud-practitioner.png" width="14%" height="14%"/>
+<img src="./assets/badges/aws-certified-cloud-practitioner.png" width="20%" height="20%"/>
 </a>
 
 #### Cloud Native
 <a href ="https://www.credly.com/badges/0a0cc32e-53fe-4b69-a923-39d7a357e41d">
-<img src="./assets/badges/cka-certified-kubernetes-administrator.png" width="14%" height="14%"/>
+<img src="./assets/badges/cka-certified-kubernetes-administrator.png" width="20%" height="20%"/>
 </a>
 <a href ="https://www.credly.com/badges/4a55b806-e4b2-4f9e-902a-3a1f0f8516b0">
-<img src="./assets/badges/ckad-certified-kubernetes-application-developer.png" width="14%" height="14%"/>
+<img src="./assets/badges/ckad-certified-kubernetes-application-developer.png" width="20%" height="20%"/>
 </a>
 
 #### Database
 <a href ="https://www.credential.net/1eeb93bf-632c-452a-b32a-f88e46b92acb#gs.7wq93n">
-<img src="./assets/badges/redis-developer.png" width="14%" height="14%"/>
+<img src="./assets/badges/redis-developer.png" width="20%" height="20%"/>
 </a>
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/50DA77D4095452D5?sharingId=6A4C6FE13ED7A5D9">
-<img src="./assets/badges/mongodb-associate-developer.png" width="14%" height="14%"/>
+<img src="./assets/badges/mongodb-associate-developer.png" width="20%" height="20%"/>
 </a>
 
 #### Observability
 
 <a href ="https://www.credly.com/badges/4a55b806-e4b2-4f9e-902a-3a1f0f8516b0">
-<img src="./assets/badges/datadog-log-management-fundamentals.png" width="14%" height="14%"/>
+<img src="./assets/badges/datadog-log-management-fundamentals.png" width="20%" height="20%"/>
 </a>
 <a href ="https://www.credly.com/badges/4a55b806-e4b2-4f9e-902a-3a1f0f8516b0">
-<img src="./assets/badges/datadog-fundamentals-i.png" width="14%" height="14%"/>
+<img src="./assets/badges/datadog-fundamentals-i.png" width="20%" height="20%"/>
 </a>
 
 #### Alerting
 
 <a href ="https://www.credly.com/badges/fb11ce64-1f55-4b37-b7aa-16a52b212f43">
-<img src="./assets/badges/pagerduty-api-certification.png" width="14%" height="14%"/>
+<img src="./assets/badges/pagerduty-api-certification.png" width="20%" height="20%"/>
 </a>
 <a href ="https://www.credly.com/badges/fb11ce64-1f55-4b37-b7aa-16a52b212f43">
-<img src="./assets/badges/pagerduty-foundational-practitioner-certification.png" width="14%" height="14%"/>
+<img src="./assets/badges/pagerduty-foundational-practitioner-certification.png" width="20%" height="20%"/>
 </a>
 
 

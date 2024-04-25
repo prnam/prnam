@@ -109,7 +109,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 
 #### Alerting
 
-<a href ="https://www.credly.com/badges/fb11ce64-1f55-4b37-b7aa-16a52b212f43">
+<a href ="https://www.credly.com/badges/4bd98ec8-323b-4e0c-b9ba-e2e64adffc13" target="_blank">
 <img src="./assets/badges/pagerduty-api-certification.png" width="20%" height="20%"/>
 </a>
 <a href ="https://www.credly.com/badges/fb11ce64-1f55-4b37-b7aa-16a52b212f43">

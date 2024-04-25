@@ -100,13 +100,36 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 
 ##### API
 
-<a href ="https://www.credential.net/1eeb93bf-632c-452a-b32a-f88e46b92acb#gs.7wq93n">
-<img src="./assets/badges/postman-student-expert.png" width="16%" height="16%"/>
+<a href ="https://api.badgr.io/public/assertions/lKkF8bxOQcSXfdYZNNg8xg">
+<img src="./assets/badges/postman-api-fundamentals-student-expert.png" width="16%" height="16%"/>
 </a>
-<a href ="https://www.credly.com/badges/4bd98ec8-323b-4e0c-b9ba-e2e64adffc13">
-<img src="./assets/badges/mongodb-associate-developer.png" width="16%" height="16%"/>
+<a>
+<a href ="https://api.badgr.io/public/assertions/n8c3ZCpsRAmxsORDIUEUGA">
+<img src="./assets/badges/postman-flows-beginner.png" width="16%" height="16%"/>
 </a>
-
+<a href ="./assets/certificates/api-acadamy-api-security-architect.pdf">
+<img src="./assets/badges/api-acadamy-api-security-architect.png" width="16%" height="16%"/>
+</a>
+<a href ="./assets/certificates/api-acadamy-api-designer.pdf">
+<img src="./assets/badges/api-acadamy-api-designer.png" width="16%" height="16%"/>
+</a>
+<a href ="https://api.badgr.io/public/assertions/lKkF8bxOQcSXfdYZNNg8xg">
+<img src="./assets/badges/api-security-fundamentals.png" width="16%" height="16%"/>
+</a>
+<a>
+<a href ="https://api.badgr.io/public/assertions/n8c3ZCpsRAmxsORDIUEUGA">
+<img src="./assets/badges/api-security-for-pci-compliance.png" width="16%" height="16%"/>
+</a>
+<a href ="https://api.badgr.io/public/assertions/lKkF8bxOQcSXfdYZNNg8xg">
+<img src="./assets/badges/owasp-api-security-top-10.png" width="16%" height="16%"/>
+</a>
+<a>
+<a href ="https://api.badgr.io/public/assertions/n8c3ZCpsRAmxsORDIUEUGA">
+<img src="./assets/badges/securing-api-servers.png" width="16%" height="16%"/>
+</a>
+<a href ="https://api.badgr.io/public/assertions/n8c3ZCpsRAmxsORDIUEUGA">
+<img src="./assets/badges/api-documentation-best-practices.png" width="16%" height="16%"/>
+</a>
 
 ##### DevOps
 

@@ -20,7 +20,29 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 
 </div>
           
+#### Skills
 
+| | |
+|--- | --- |
+| Programming Languages | Python, Rust |
+| Database | CosmosDB, Redis Stack and MongoDB |
+| Event Streams | Kafka |
+| Server Operating System | Linux |
+| Virtualization & Cloud Native | Docker, Podman, Helm and Kubernetes |
+| Observability & Alerting Tools | Datadog, Grafana, OpenTelemetry and PagerDuty |
+| Design Tools | Figma |
+| DevOps Tools | Git, GitHub, Terraform, Harness, Jira, Postman and Trivy |
+| Security | Burp Suite, ZAP |
+| Networking | Wireshark, TCP/IP, QUIC, UDP, CIDR, DNS, HTTP, LB |
+| Documentation | Material for MkDocs, Confluence |
+
+
+#### Education
+
+| DEGREE      | GPA (US) | UNIVERSITY     | BATCH CYCLE |
+| :---        |    :----:   |    :---: |          ---: |
+| Master of Science in Computer Science      | 3.81 / 4.0      | Mangalore University   | 2016 - 2018 |
+| Bachelor of Science in Computer Science   | 3.43 / 4.0        | Mangalore University      |2013 - 2016 |
 
 <!--
 **prnam/prnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

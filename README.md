@@ -2,7 +2,7 @@
 
 <div style="text-align: justify">
   
-I was born and raised in <a href="https://www.mappls.com/v9fmrc" target="_blank">Mangaluru, India</a>. I have completed my Master of Science in Computer Science at <a href="https://www.mappls.com/36gd42" target="_blank"> Mangaluru Univerisity</a>.
+I am a mononymous person who was born and raised in <a href="https://www.mappls.com/v9fmrc" target="_blank">Mangaluru, India</a>. I have completed my Master of Science in Computer Science at <a href="https://www.mappls.com/36gd42" target="_blank"> Mangaluru Univerisity</a>.
 
 </div>
 

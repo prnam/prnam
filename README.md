@@ -2,7 +2,7 @@
 
 <div style="text-align: justify">
   
-I was born and raised in Mangaluru, India. I have completed my Master of Science in Computer Science at Mangaluru Univerisity.
+I was born and raised in <a href="https://www.mappls.com/v9fmrc" target="_blank">Mangaluru, India</a>. I have completed my Master of Science in Computer Science at <a href="https://www.mappls.com/36gd42" target="_blank"> Mangaluru Univerisity</a>.
 
 </div>
 
@@ -21,7 +21,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 </div>
           
 #### Skills
-
+  
 | | |
 |--- | --- |
 | **Programming Languages** | Python, Rust |
@@ -29,7 +29,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 | **Event Streams** | Kafka |
 | **Server Operating System** | Linux |
 | **Virtualization & Cloud Native** | Docker, Podman, Helm and Kubernetes |
-| **Observability & Alerting Tools** | Datadog, Grafana, OpenTelemetry and PagerDuty |
+| **Observability & Alerting Tools** | Datadog, Grafana Stack, OpenTelemetry and PagerDuty |
 | **Design Tools** | Figma |
 | **DevOps Tools** | Git, GitHub, Terraform, Harness, Jira, Postman and Trivy |
 | **Security** | Burp Suite, ZAP |
@@ -43,6 +43,9 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 | :---        |    :----:   |    :---: |          ---: |
 | Master of Science in Computer Science      | 3.81 / 4.0      | Mangalore University   | 2016 - 2018 |
 | Bachelor of Science in Computer Science   | 3.43 / 4.0        | Mangalore University      |2013 - 2016 |
+
+> [WES](https://www.wes.org) US academic evaluation report will be shared upon request.
+
 
 <!--
 **prnam/prnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

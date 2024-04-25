@@ -113,21 +113,21 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <a href ="./assets/certificates/api-acadamy-api-designer.pdf">
 <img src="./assets/badges/api-acadamy-api-designer.png" width="16%" height="16%"/>
 </a>
-<a href ="https://api.badgr.io/public/assertions/lKkF8bxOQcSXfdYZNNg8xg">
+<a href ="https://www.credly.com/badges/7b00290f-a1e4-46bf-aa20-3c43bfe95dbc">
 <img src="./assets/badges/api-security-fundamentals.png" width="16%" height="16%"/>
 </a>
 <a>
-<a href ="https://api.badgr.io/public/assertions/n8c3ZCpsRAmxsORDIUEUGA">
+<a href ="https://www.credly.com/badges/a1ef3bda-20f9-4160-8add-86f87d9b8a60">
 <img src="./assets/badges/api-security-for-pci-compliance.png" width="16%" height="16%"/>
 </a>
-<a href ="https://api.badgr.io/public/assertions/lKkF8bxOQcSXfdYZNNg8xg">
+<a href ="https://www.credly.com/badges/84741b41-190f-4b25-9f19-4f06234006db">
 <img src="./assets/badges/owasp-api-security-top-10.png" width="16%" height="16%"/>
 </a>
 <a>
-<a href ="https://api.badgr.io/public/assertions/n8c3ZCpsRAmxsORDIUEUGA">
+<a href ="https://www.credly.com/badges/ebf98f4a-80d8-4643-a49f-c0c848b9bb87">
 <img src="./assets/badges/securing-api-servers.png" width="16%" height="16%"/>
 </a>
-<a href ="https://api.badgr.io/public/assertions/n8c3ZCpsRAmxsORDIUEUGA">
+<a href ="https://www.credly.com/badges/fce42545-0879-4dbd-bbd4-d49ba44d5961">
 <img src="./assets/badges/api-documentation-best-practices.png" width="16%" height="16%"/>
 </a>
 

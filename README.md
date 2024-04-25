@@ -21,7 +21,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 </div>
           
 #### Skills
-  
+
 | | |
 |--- | --- |
 | **Programming Languages** | Python, Rust |
@@ -48,7 +48,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 
 #### Certifications
 
-#### Azure Cloud
+##### Azure Cloud
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/68E926FC2F0D730B?sharingId=6A4C6FE13ED7A5D9">
 <img src="./assets/badges/azure-solutions-architect-expert.png" width="16%" height="16%"/>
 </a>
@@ -74,7 +74,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/microsoft-certified-azure-fundamentals.png" width="16%" height="16%"/>
 </a>
 
-#### AWS Cloud
+##### AWS Cloud
 <a href ="https://www.credly.com/badges/30ba7e92-9cef-4dca-8e9b-2d5fdb3c1968">
 <img src="./assets/badges/aws-certified-solutions-architect-associate.png" width="16%" height="16%"/>
 </a>
@@ -82,7 +82,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/aws-certified-cloud-practitioner.png" width="16%" height="16%"/>
 </a>
 
-#### Cloud Native
+##### Cloud Native
 <a href ="https://www.credly.com/badges/0a0cc32e-53fe-4b69-a923-39d7a357e41d">
 <img src="./assets/badges/cka-certified-kubernetes-administrator.png" width="16%" height="16%"/>
 </a>
@@ -90,7 +90,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/ckad-certified-kubernetes-application-developer.png" width="16%" height="16%"/>
 </a>
 
-#### Database
+##### Database
 <a href ="https://www.credential.net/1eeb93bf-632c-452a-b32a-f88e46b92acb#gs.7wq93n">
 <img src="./assets/badges/redis-developer.png" width="16%" height="16%"/>
 </a>
@@ -98,7 +98,17 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/mongodb-associate-developer.png" width="16%" height="16%"/>
 </a>
 
-#### DevOps
+##### API
+
+<a href ="https://www.credential.net/1eeb93bf-632c-452a-b32a-f88e46b92acb#gs.7wq93n">
+<img src="./assets/badges/postman-student-expert.png" width="16%" height="16%"/>
+</a>
+<a href ="https://www.credly.com/badges/4bd98ec8-323b-4e0c-b9ba-e2e64adffc13">
+<img src="./assets/badges/mongodb-associate-developer.png" width="16%" height="16%"/>
+</a>
+
+
+##### DevOps
 
 <a href ="https://www.credly.com/badges/30ee3786-0657-4c0b-b4e4-5397abdf4852">
 <img src="./assets/badges/harness-certified-continuous-delivery-gitops-archit.png" width="16%" height="16%"/>
@@ -128,7 +138,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/harness-certified-security-testing-orchestration-de.png" width="16%" height="16%"/>
 </a>
 
-#### Observability
+##### Observability
 
 <a href ="https://www.credly.com/badges/4a55b806-e4b2-4f9e-902a-3a1f0f8516b0">
 <img src="./assets/badges/datadog-log-management-fundamentals.png" width="16%" height="16%"/>
@@ -137,7 +147,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/datadog-fundamentals-i.png" width="16%" height="16%"/>
 </a>
 
-#### Alerting
+##### Alerting
 
 <a href ="https://www.credly.com/badges/f09850ca-15d3-4a4d-a0a2-259c22c903bc" target="_blank">
 <img src="./assets/badges/pagerduty-api-certification.png" width="16%" height="16%"/>
@@ -146,11 +156,17 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/pagerduty-foundational-practitioner-certification.png" width="16%" height="16%"/>
 </a>
 
-#### Project Management
+##### Project Management
 
 <a href ="https://www.coursera.org/learner/pranam">
 <img src="./assets/badges/google-project-management-certificate.png" width="16%" height="16%"/>
 </a>
+
+#### Intellectual Property
+
+| TRADEMARK | PATENT | DESIGN | GEOGRAPHICAL INDICATIONS |
+| :---  |    :----:   | :---: | ---: |
+| 2     | 0    | 0   | 0 |
 
 <!--
 **prnam/prnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

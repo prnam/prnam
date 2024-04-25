@@ -27,6 +27,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 | **Programming Languages** | Python, Rust |
 | **Database** | CosmosDB, Redis Stack and MongoDB |
 | **Event Streams** | Kafka |
+| Cloud | Azure, AWS and OpenStack |
 | **Server Operating System** | Linux |
 | **Virtualization & Cloud Native** | Docker, Podman, Helm and Kubernetes |
 | **Observability & Alerting Tools** | Datadog, Grafana Stack, OpenTelemetry and PagerDuty |

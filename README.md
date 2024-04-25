@@ -94,7 +94,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <a href ="https://www.credential.net/1eeb93bf-632c-452a-b32a-f88e46b92acb#gs.7wq93n">
 <img src="./assets/badges/redis-developer.png" width="20%" height="20%"/>
 </a>
-<a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/50DA77D4095452D5?sharingId=6A4C6FE13ED7A5D9">
+<a href ="https://www.credly.com/badges/4bd98ec8-323b-4e0c-b9ba-e2e64adffc13">
 <img src="./assets/badges/mongodb-associate-developer.png" width="20%" height="20%"/>
 </a>
 

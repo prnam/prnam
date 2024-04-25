@@ -146,6 +146,11 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/pagerduty-foundational-practitioner-certification.png" width="16%" height="16%"/>
 </a>
 
+#### Project Management
+
+<a href ="https://www.coursera.org/learner/pranam">
+<img src="./assets/badges/google-project-management-certificate.png" width="16%" height="16%"/>
+</a>
 
 <!--
 **prnam/prnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -192,6 +192,51 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 | :---  |    :----:   | ---: |
 | 2     | 0    | 0   |
 
+#### Projects
+
+<a href ="https://github.com/gitkosha">
+<img src="https://github.com/gitkosha/.github/assets/68323012/d3ac5769-69f1-480b-a0c9-f794056842d6" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/pathra">
+<img src="https://github.com/pathra/.github/assets/68323012/2e602fbb-f3c3-4ee1-8a29-a9b6a7670cc1" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/patashale">
+<img src="https://github.com/patashale/.github/assets/68323012/29203063-c8b2-455f-b38a-8bce265c8dc3" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/bashe-india">
+<img src="https://github.com/bashe-india/.github/assets/68323012/25e44946-a2fc-48d0-8b95-1448b664f0c0" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/rentyd">
+<img src="https://github.com/rentyd/.github/assets/68323012/4bbc3597-5cec-450f-a6b6-bd7fbdffc5ce" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/vyayaka">
+<img src="https://github.com/vyayaka/.github/assets/68323012/38df92af-88f3-42b6-af8b-0dcd2b945ec3" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/vethana-india">
+<img src="https://github.com/vethana-foundation/.github/assets/68323012/9f407de4-1a93-469b-8787-ae431d94cd8a" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/placeofworship">
+<img src="https://github.com/placeofworship/.github/assets/68323012/81456cdd-f9c9-4c0d-8d43-a180207f2ab9" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/comsect">
+<img src="https://github.com/comsect/.github/assets/68323012/24ad999a-19cf-4e75-88a4-5676318012d5" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/mugilu-india">
+<img src="https://github.com/mugilu-india/.github/assets/68323012/7dc9273c-86da-4eff-b22f-f5c4b3ae48ad" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/hastakshara">
+<img src="https://github.com/hastakshara/.github/assets/68323012/327a112b-2cdf-4e6f-8026-6f4eef04d7d8" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/vrthi">
+<img src="https://github.com/vrthi/.github/assets/68323012/28bc4934-7979-44c8-965c-0d1fd803375d" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/vipathra">
+<img src="https://github.com/vipathra/.github/assets/68323012/a03154bb-8e67-482a-94de-85a3c980839c" width="16%" height="16%"/>
+</a>
+<a href ="https://github.com/beega-india">
+<img src="https://github.com/beega-india/.github/assets/68323012/66d0d5a2-e3c7-4777-b57a-1824f537fce5" width="16%" height="16%"/>
+</a>
+
 <!--
 **prnam/prnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

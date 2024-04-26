@@ -188,9 +188,9 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 
 #### Intellectual Property
 
-| TRADEMARK | PATENT | DESIGN | GEOGRAPHICAL INDICATIONS |
-| :---  |    :----:   | :---: | ---: |
-| 2     | 0    | 0   | 0 |
+| TRADEMARK | PATENT | DESIGN |
+| :---  |    :----:   | ---: |
+| 2     | 0    | 0   |
 
 <!--
 **prnam/prnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

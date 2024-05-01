@@ -47,6 +47,12 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 
 > [WES](https://www.wes.org) US academic evaluation report will be shared upon request.
 
+#### Intellectual Property
+
+| TRADEMARK | PATENT | DESIGN | COPYRIGHT |
+| :---  |    :----:   | :---: | ---: |
+| 2     | 0    | 0   | MANY |
+
 #### Certifications
 
 ##### Azure Cloud
@@ -185,12 +191,6 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <a href ="https://www.coursera.org/learner/pranam">
 <img src="./assets/badges/google-project-management-certificate.png" width="16%" height="16%"/>
 </a> -->
-
-#### Intellectual Property
-
-| TRADEMARK | PATENT | DESIGN |
-| :---  |    :----:   | ---: |
-| 2     | 0    | 0   |
 
 <!-- #### Projects
 

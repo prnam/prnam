@@ -42,8 +42,8 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 
 | DEGREE      | GPA (US) | UNIVERSITY     | BATCH CYCLE |
 | :---        |    :----:   |    :---: |          ---: |
-| Master of Science in Computer Science      | 3.81 / 4.0      | Mangalore University   | 2016 - 2018 |
-| Bachelor of Science in Computer Science   | 3.43 / 4.0        | Mangalore University      |2013 - 2016 |
+| Master of Science in Computer Science      | 3.81/4.0      | Mangalore University   | 2016 - 2018 |
+| Bachelor of Science in Computer Science   | 3.43/4.0        | Mangalore University      |2013 - 2016 |
 
 > [WES](https://www.wes.org) US academic evaluation report will be shared upon request.
 
@@ -192,7 +192,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 | :---  |    :----:   | ---: |
 | 2     | 0    | 0   |
 
-#### Projects
+<!-- #### Projects
 
 <a href ="https://github.com/gitkosha">
 <img src="https://github.com/gitkosha/.github/assets/68323012/d3ac5769-69f1-480b-a0c9-f794056842d6" width="16%" height="16%"/>
@@ -235,7 +235,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 </a>
 <a href ="https://github.com/beega-india">
 <img src="https://github.com/beega-india/.github/assets/68323012/66d0d5a2-e3c7-4777-b57a-1824f537fce5" width="16%" height="16%"/>
-</a>
+</a> -->
 
 <!--
 **prnam/prnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -27,14 +27,14 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 | **Programming Languages** | Python, Rust |
 | **Database** | CosmosDB, Redis Stack and MongoDB |
 | **Event Streams** | Kafka |
-| Cloud | Azure, AWS and OpenStack |
+| **Cloud** | Azure, AWS and OpenStack |
 | **Server Operating System** | Linux |
-| **Virtualization & Cloud Native** | Docker, Podman, Helm and Kubernetes |
-| **Observability & Alerting Tools** | Datadog, Grafana Stack, OpenTelemetry and PagerDuty |
+| **Virtualization & Cloud Native** | Kubernetes, Docker and Helm |
+| **Observability & Alerting Tools** | Grafana Stack, OpenTelemetry and PagerDuty |
 | **Design Tools** | Figma |
-| **DevOps Tools** | Git, GitHub, Terraform, Harness, Jira, Postman and Trivy |
-| **Security** | Burp Suite, ZAP |
-| **Networking** | Wireshark, TCP/IP, QUIC, UDP, CIDR, DNS, HTTP, LB |
+| **DevOps Tools** | Git, GitHub, OpenTofu, Harness, Jira and Postman  |
+| **Security** | Burp Suite, ZAP, Falco, Trivy |
+| **Networking** | Wireshark |
 | **Documentation** | Material for MkDocs, Confluence |
 
 

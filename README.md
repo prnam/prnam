@@ -28,8 +28,8 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 | **Database** | CosmosDB, Redis Stack and MongoDB |
 | **Event Streams** | Kafka |
 | **Cloud** | Azure, AWS and OpenStack |
-| **Server Operating System** | Linux |
-| **Virtualization & Cloud Native** | Kubernetes, Docker and Helm |
+| **Server Operating System** | Linux [Distro: Ubuntu] |
+| **Cloud Native** | Kubernetes and Helm |
 | **Observability & Alerting Tools** | Grafana Stack, OpenTelemetry and PagerDuty |
 | **Design Tools** | Figma |
 | **DevOps Tools** | Git, GitHub, OpenTofu, Harness, Jira and Postman  |

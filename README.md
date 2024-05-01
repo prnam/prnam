@@ -30,7 +30,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 | **Cloud** | Azure, AWS and OpenStack |
 | **Server Operating System** | Linux [Distro: Ubuntu] |
 | **Cloud Native** | Kubernetes and Helm |
-| **Observability & Alerting Tools** | Grafana Stack, OpenTelemetry and PagerDuty |
+| **Observability & Alerting Tools** | Grafana Stack and OpenTelemetry |
 | **Design Tools** | Figma |
 | **DevOps Tools** | Git, GitHub, OpenTofu, Harness, Jira and Postman  |
 | **Security** | Burp Suite, ZAP, Falco, Trivy |
@@ -105,7 +105,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/mongodb-associate-developer.png" width="16%" height="16%"/>
 </a>
 
-<!-- ##### API
+##### API
 
 <a href ="https://api.badgr.io/public/assertions/lKkF8bxOQcSXfdYZNNg8xg">
 <img src="./assets/badges/postman-api-fundamentals-student-expert.png" width="16%" height="16%"/>
@@ -114,7 +114,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <a href ="https://api.badgr.io/public/assertions/n8c3ZCpsRAmxsORDIUEUGA">
 <img src="./assets/badges/postman-flows-beginner.png" width="16%" height="16%"/>
 </a>
-<a href ="./assets/certificates/api-acadamy-api-security-architect.pdf">
+<!-- <a href ="./assets/certificates/api-acadamy-api-security-architect.pdf">
 <img src="./assets/badges/api-acadamy-api-security-architect.png" width="16%" height="16%"/>
 </a>
 <a href ="./assets/certificates/api-acadamy-api-designer.pdf">
@@ -135,8 +135,8 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/securing-api-servers.png" width="16%" height="16%"/>
 </a>
 <a href ="https://www.credly.com/badges/fce42545-0879-4dbd-bbd4-d49ba44d5961">
-<img src="./assets/badges/api-documentation-best-practices.png" width="16%" height="16%"/> -->
-</a>
+<img src="./assets/badges/api-documentation-best-practices.png" width="16%" height="16%"/>
+</a> -->
 
 ##### DevOps
 

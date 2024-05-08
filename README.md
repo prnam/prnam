@@ -68,7 +68,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/40691D8F02F73F2E?sharingId=6A4C6FE13ED7A5D9">
 <img src="./assets/badges/microsoft-certified-azure-administrator-associate.png" width="16%" height="16%"/>
 </a>
-<!-- <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/A633B2A21F2511FF?sharingId=6A4C6FE13ED7A5D9">
+<a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/A633B2A21F2511FF?sharingId=6A4C6FE13ED7A5D9">
 <img src="./assets/badges/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="16%" height="16%"/>
 </a>
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/E848C7A8181B3F67?sharingId=6A4C6FE13ED7A5D9">
@@ -78,7 +78,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/microsoft-certified-azure-data-fundamentals.png" width="16%" height="16%"/>
 </a>
 <a href ="https://learn.microsoft.com/api/credentials/share/en-in/prnam/7F68DF9DC78497F2?sharingId=6A4C6FE13ED7A5D9">
-<img src="./assets/badges/microsoft-certified-azure-fundamentals.png" width="16%" height="16%"/> -->
+<img src="./assets/badges/microsoft-certified-azure-fundamentals.png" width="16%" height="16%"/>
 </a>
 
 ##### AWS Cloud
@@ -114,7 +114,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <a href ="https://api.badgr.io/public/assertions/n8c3ZCpsRAmxsORDIUEUGA">
 <img src="./assets/badges/postman-flows-beginner.png" width="16%" height="16%"/>
 </a>
-<!-- <a href ="./assets/certificates/api-acadamy-api-security-architect.pdf">
+<a href ="./assets/certificates/api-acadamy-api-security-architect.pdf">
 <img src="./assets/badges/api-acadamy-api-security-architect.png" width="16%" height="16%"/>
 </a>
 <a href ="./assets/certificates/api-acadamy-api-designer.pdf">
@@ -136,7 +136,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 </a>
 <a href ="https://www.credly.com/badges/fce42545-0879-4dbd-bbd4-d49ba44d5961">
 <img src="./assets/badges/api-documentation-best-practices.png" width="16%" height="16%"/>
-</a> -->
+</a>
 
 ##### DevOps
 
@@ -168,7 +168,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/harness-certified-security-testing-orchestration-de.png" width="16%" height="16%"/>
 </a>
 
-<!-- ##### Observability
+##### Observability
 
 <a href ="https://www.credly.com/badges/4a55b806-e4b2-4f9e-902a-3a1f0f8516b0">
 <img src="./assets/badges/datadog-log-management-fundamentals.png" width="16%" height="16%"/>
@@ -190,7 +190,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 
 <a href ="https://www.coursera.org/learner/pranam">
 <img src="./assets/badges/google-project-management-certificate.png" width="16%" height="16%"/>
-</a> -->
+</a>
 
 <!-- #### Projects
 

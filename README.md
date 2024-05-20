@@ -107,6 +107,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/mongodb-associate-developer.png" width="16%" height="16%"/>
 </a>
 
+<!---
 ##### API
 
 <a href ="https://api.badgr.io/public/assertions/lKkF8bxOQcSXfdYZNNg8xg">
@@ -122,7 +123,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <a href ="./assets/certificates/api-acadamy-api-designer.pdf">
 <img src="./assets/badges/api-acadamy-api-designer.png" width="16%" height="16%"/>
 </a>
-<!---
+
 <a href ="https://www.credly.com/badges/7b00290f-a1e4-46bf-aa20-3c43bfe95dbc">
 <img src="./assets/badges/api-security-fundamentals.png" width="16%" height="16%"/>
 </a>

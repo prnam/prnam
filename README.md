@@ -110,7 +110,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <img src="./assets/badges/mongodb-certified-associate-data-modeler.png" width="16%" height="16%"/>
 </a>
 
-<!---
+
 ##### API
 
 <a href ="https://api.badgr.io/public/assertions/lKkF8bxOQcSXfdYZNNg8xg">
@@ -120,6 +120,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <a href ="https://api.badgr.io/public/assertions/n8c3ZCpsRAmxsORDIUEUGA">
 <img src="./assets/badges/postman-flows-beginner.png" width="16%" height="16%"/>
 </a>
+<!---
 <a href ="./assets/certificates/api-acadamy-api-security-architect.pdf">
 <img src="./assets/badges/api-acadamy-api-security-architect.png" width="16%" height="16%"/>
 </a>

@@ -106,6 +106,9 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 <a href ="https://www.credly.com/badges/4bd98ec8-323b-4e0c-b9ba-e2e64adffc13">
 <img src="./assets/badges/mongodb-associate-developer.png" width="16%" height="16%"/>
 </a>
+<a href ="https://www.credly.com/badges/4df778ec-8112-4842-8cce-97b57c2e526a">
+<img src="./assets/badges/mongodb-certified-associate-data-modeler.png" width="16%" height="16%"/>
+</a>
 
 <!---
 ##### API

@@ -29,10 +29,10 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 | **Event Streams** | Apache Kafka |
 | **Cloud** | OpenStack, Azure and AWS  |
 | **Server Operating System** | Linux [Distro: Ubuntu] |
-| **Cloud Native** | Kubernetes and Helm |
+| **Cloud Native** | Kubernetes, Crossplane, OPA and Helm |
 | **Observability & Alerting Tools** | Grafana Stack and OpenTelemetry |
 | **Design Tools** | Figma |
-| **DevOps Tools** | Git, GitHub, OpenTofu, Harness, Jira and Postman  |
+| **DevOps Tools** | Git, GitHub, OpenTofu, Jira and Postman  |
 | **Security** | Burp Suite, ZAP, Falco, Trivy |
 | **Networking** | Wireshark |
 | **Documentation** | Material for MkDocs, Confluence |

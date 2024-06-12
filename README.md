@@ -51,7 +51,7 @@ I'm currently pursuing a postgraduate degree in Company Secretary from [Institut
 
 | TRADEMARK | PATENT | DESIGN | COPYRIGHT |
 | :---  |    :----:   | :---: | ---: |
-| 5     | 0    | 0   | MANY |
+| 6     | 0    | 0   | MANY |
 
 #### Certifications
 
